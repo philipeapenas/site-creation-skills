@@ -1,0 +1,12 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Backups deixados por testes locais do instalador
+*.bak/
